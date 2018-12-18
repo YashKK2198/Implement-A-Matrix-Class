@@ -4,39 +4,51 @@ In this project I have implemented a matrix class in Python. Specifically, I  ha
 
 class Matrix:
   def determinant(self):
+      
       # your code
 
 
   def trace(self):
+      
       # your code
 
 
   def inverse(self):
+      
       # your code
 
 
   def transpose(self):
+     
      # your code
+
+
 
 
   # Overloaded operators
 
-  def __add__(self,other):
-    # your code
+
+def __add__(self,other):
+
+# your code
 
 
-  def __sub__(self,other):
-    # your code
+
+def __sub__(self,other):
+
+# your code
 
 
-  def __mul__(self,other):
-    # your code
+
+def __mul__(self,other):
+
+# your code
     
     
     
     
-   When my class is working properly I will be able to manipulate matrices in code as if they were regular numbers (for the most part).
-   For example:
+ When my class is working properly I will be able to manipulate matrices in code as if they were regular numbers (for the most part).
+ For example:
     
     
     
